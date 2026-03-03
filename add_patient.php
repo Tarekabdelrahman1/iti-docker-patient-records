@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect("localhost", "root", "", "people");
+$conn = mysqli_connect("db", "root", "1234", "patient_db");
 
 $full_name = $_POST['full_name'];
 $age = $_POST['age'];
