@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect("localhost", "root", "", "people");
+$conn = mysqli_connect("db", "root", "1234", "patient_db");
 
 $id = $_POST['id'];
 
