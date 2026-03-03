@@ -1,4 +1,8 @@
-# Orchestrating Patient Records with Docker Compose 🏥🐳
+# Orchestrating Patient Records with Docker Compose 🏥
+
+<img width="1024" height="565" alt="image" src="https://github.com/user-attachments/assets/61872a5c-983d-44f6-9e1e-e06365beea19" />
+
+
 
 ## 📌 Project Overview
 This project is a containerized **LAMP Stack** application designed for managing patient medical records. It was developed as part of the **ITI (Information Technology Institute)** training to demonstrate proficiency in Docker, DevOps practices, and web orchestration.
